@@ -1,0 +1,2 @@
+# Almanac
+The Almanac AI
